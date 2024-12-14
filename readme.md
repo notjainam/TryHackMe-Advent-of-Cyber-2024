@@ -1,4 +1,4 @@
-# Malware Analysis Report
+# Task 7 [Day1] Malware Analysis Report
 
 ## Overview
 This report outlines the investigation of a malicious file masquerading as a valid MP3. The analysis reveals a targeted attack involving a Windows shortcut (.lnk) that executes a PowerShell command to download and execute a malicious script. The investigation tracks the malicious actor and their OPSEC failures.
